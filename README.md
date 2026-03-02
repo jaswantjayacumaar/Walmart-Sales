@@ -86,10 +86,8 @@ This project is an end-to-end data analysis solution designed to extract critica
    ```bash
    git clone <repo-url>
    ```
-2. Install Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install Python libraries
+   
 3. Set up your Kaggle API, download the data, and follow the steps to load and analyze.
 
 ---
